@@ -47,7 +47,7 @@ identity:
   domain     : "Banking & Financial Services (Enterprise)"
 
 experience:
-  total      : "~5 years in IT"
+  total      : "5+ years in IT"
   devops     : "3+ years dedicated"
   focus_areas:
     - Cloud infrastructure design & automation
@@ -56,10 +56,10 @@ experience:
     - DevSecOps — shifting security left
     - Cost optimisation & reliability
 
-certifications:
+certifications / courses:
   - "AWS Certified DevOps Engineer — Professional"
   - "AWS Certified Cloud Practitioner"
-  - "HashiCorp Certified: Terraform Associate"
+  - "HashiCorp Certified: Terraform Associate Course"
 
 status     : "Open to Senior DevOps Engineer opportunities"
 ```
@@ -186,6 +186,7 @@ Version-controlled Terraform module registry covering VPC, EC2, RDS, ECS, and se
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![EKS](https://img.shields.io/badge/EKS-0d1117?style=for-the-badge&logo=amazon-eks&logoColor=FF9900)
 ![ECS](https://img.shields.io/badge/ECS-0d1117?style=for-the-badge&logo=amazon-ecs&logoColor=FF9900)
+![ECS](https://img.shields.io/badge/ECR-0d1117?style=for-the-badge&logo=amazon-ecr&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=aws-lambda&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/EC2-0d1117?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900)
 ![S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazon-s3&logoColor=569A31)
