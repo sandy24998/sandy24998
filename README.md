@@ -19,19 +19,34 @@
 <!-- CONTACT LINKS -->
 <div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-pandit-540b32150/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sandy24998">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:24panditsandeep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sandeep-pandit-540b32150/">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sandy24998">
+        <img
+          src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:24panditsandeep@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="Email"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
