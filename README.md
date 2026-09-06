@@ -115,65 +115,56 @@ status     : "Open to Senior DevOps Engineer opportunities"
 <br/>
 
 ## `$ ls ./projects/`
-
+ 
 <br/>
-
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3>
 <img src="https://img.shields.io/badge/──────────────────────────-0d1117?style=flat-square&labelColor=0d1117" /><br/>
-<code>📦 EKSAtlas</code>
+<code>⚙️ Multi-Environment CI/CD Pipeline</code>
 </h3>
-
-**Production-grade EKS cluster automation**
-
-End-to-end Terraform workflow that provisions a complete EKS environment from scratch — custom VPC with public/private subnet layout, managed node groups, IRSA-bound IAM roles, ALB Ingress Controller, and opinionated Helm chart deployments. Built to reflect the architecture decisions you'd actually make in a regulated enterprise environment, not a tutorial.
-
+`Jun 2026`&ensp;·&ensp;Jenkins · Docker · Kubernetes
+ 
+End-to-end pipeline built on a **Build Once, Deploy Many** strategy — a single versioned image promoted as an immutable artifact across DEV, QA, UAT, and production. Pipeline-as-Code with manual approval gates for controlled, auditable releases; Kubernetes rolling deployments with readiness checks and namespace isolation per environment. Dynamic image tagging via build number, Git commit hash, and semantic version gives full release traceability from commit to pod.
+ 
 <br/>
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+ 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%230d1117.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/sandy24998)
-
+ 
 </td>
 <td width="50%" valign="top">
-
 <h3>
 <img src="https://img.shields.io/badge/──────────────────────────-0d1117?style=flat-square&labelColor=0d1117" /><br/>
-<code>🔩 CloudSculptor</code>
+<code>🏗️ AWS Infrastructure Automation Platform</code>
 </h3>
-
-**Reusable AWS infrastructure module library**
-
-Version-controlled Terraform module registry covering VPC, EC2, RDS, ECS, and security baselines — designed for plug-and-play adoption across projects. Enforces consistent naming conventions, tagging standards, and security defaults so teams don't reinvent the wheel or accidentally drift from the baseline.
-
+`Jun 2026 – Present`&ensp;·&ensp;Terraform · EKS · AWS
+ 
+Production-style IaC platform that provisions EKS clusters, VPC networking, and compute through reusable modular Terraform components. Remote state in S3 with DynamoDB locking keeps concurrent multi-environment deployments safe. Terraform workspaces and environment-specific variable files eliminate code duplication across DEV/QA/prod — one codebase, isolated state, no drift.
+ 
 <br/>
-
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+ 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%230d1117.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/sandy24998)
-
+ 
 </td>
 </tr>
 </table>
 </div>
-
 <br/>
-
 ---
-
+ 
 <br/>
+
 
 ## `$ cat stack.json`
 
