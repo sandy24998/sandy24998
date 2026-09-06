@@ -19,7 +19,7 @@
 <!-- CONTACT LINKS -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0d1117)](https://www.linkedin.com/in/sandeep-pandit-540b32150/)&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/sandeep-pandit-540b32150/)&ensp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117)](https://github.com/sandy24998)&ensp;
 [![Gmail](https://img.shields.io/badge/24panditsandeep%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:24panditsandeep@gmail.com)
 
