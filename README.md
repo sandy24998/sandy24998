@@ -278,35 +278,57 @@ Production-style IaC platform that provisions EKS clusters, VPC networking, and 
 
 ## `$ git log --stat`
 
-<br/>
+<br />
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sandy24998&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=6ab0f5&text_color=8b949e&count_private=true&rank_icon=github&include_all_commits=true" />
-&ensp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy24998&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=8b949e&langs_count=6" />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=sandy24998&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=6ab0f5&text_color=8b949e&count_private=true&rank_icon=github&include_all_commits=true"
+    alt="Sandeep Pandit's GitHub statistics"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy24998&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=8b949e&langs_count=6"
+    alt="Sandeep Pandit's most used languages"
+  />
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-<img width="58%" src="https://github-readme-streak-stats.herokuapp.com?user=sandy24998&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38BDF8&fire=6ab0f5&currStreakLabel=38BDF8&sideLabels=8b949e&dates=4a5568&stroke=1e3a5f" />
+  <img
+    width="58%"
+    src="https://streak-stats.demolab.com?user=sandy24998&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=6AB0F5&currStreakLabel=38BDF8&sideLabels=8B949E&dates=4A5568&stroke=1E3A5F"
+    alt="Sandeep Pandit's GitHub contribution streak"
+  />
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-<!-- Contribution snake — uses GitHub Actions workflow to regenerate daily -->
-<!-- To enable: add workflow from https://github.com/Platane/snk to your profile repo -->
-<img src="https://raw.githubusercontent.com/sandy24998/sandy24998/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%" />
+  <!--
+  Contribution snake.
+  This image works after the GitHub Actions workflow generates:
+  output/github-contribution-grid-snake-dark.svg
+  -->
+
+  <img
+    width="95%"
+    src="https://raw.githubusercontent.com/sandy24998/sandy24998/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
 
 </div>
 
-<br/>
+<br />
 
 ---
 
