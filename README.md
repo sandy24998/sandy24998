@@ -290,17 +290,6 @@ Production-style IaC platform that provisions EKS clusters, VPC networking, and 
 
 </div>
 
-<br />
-
-<div align="center">
-
-  <img
-    width="95%"
-    src="https://raw.githubusercontent.com/sandy24998/sandy24998/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
-
-</div>
 
 <br />
 
