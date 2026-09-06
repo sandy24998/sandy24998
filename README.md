@@ -283,26 +283,6 @@ Production-style IaC platform that provisions EKS clusters, VPC networking, and 
 <div align="center">
 
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=sandy24998&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=6ab0f5&text_color=8b949e&count_private=true&rank_icon=github&include_all_commits=true"
-    alt="Sandeep Pandit's GitHub statistics"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy24998&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=8b949e&langs_count=6"
-    alt="Sandeep Pandit's most used languages"
-  />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img
     width="58%"
     src="https://streak-stats.demolab.com?user=sandy24998&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=6AB0F5&currStreakLabel=38BDF8&sideLabels=8B949E&dates=4A5568&stroke=1E3A5F"
     alt="Sandeep Pandit's GitHub contribution streak"
@@ -313,12 +293,6 @@ Production-style IaC platform that provisions EKS clusters, VPC networking, and 
 <br />
 
 <div align="center">
-
-  <!--
-  Contribution snake.
-  This image works after the GitHub Actions workflow generates:
-  output/github-contribution-grid-snake-dark.svg
-  -->
 
   <img
     width="95%"
